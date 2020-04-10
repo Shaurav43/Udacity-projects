@@ -1,0 +1,53 @@
+body {
+    font: 16px 'Lato';
+    text-align: justify; 
+    
+}
+
+h3 {
+    font-family: 'Merriweather';
+    text-shadow: 2px 2px #ddd;
+}
+
+.interesting-fact {
+    font-family: 'Neuton';
+    font-style: italic;
+}
+
+div {
+    border: 1px solid #ddd;
+    padding: 20px; 
+    background-color: floralwhite;
+}
+.borderRadius {
+    border-radius: 30px;
+}
+
+.borderTopRadius{
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.borderBottomRadius{
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.container {
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto; 
+
+}
+
+.shadow {
+    box-shadow: 5px 10px #ddd;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li span {
+    font-weight: bold;
+}
+
