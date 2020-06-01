@@ -1,7 +1,7 @@
 # Trading Card
 
  * Nanodegree: Intro to Programming
- * Module: Intro to CSS
+ * Module: CSS
 
 ## Project Summary
 
