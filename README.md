@@ -24,10 +24,10 @@ The project is an animal trading card.
 
 # Install
 
-*  Clone project:
+* Clone project:
 ```
 git clone https://github.com/Shaurav43/trading-card.git
 ```
 ## License
 
-`trading card` is MIT licensed.
+`trading card` is [MIT](https://github.com/Shaurav43/trading-card/blob/master/LICENSE) licensed.
