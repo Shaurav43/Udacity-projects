@@ -5,7 +5,7 @@
 
 ## Project Summary
 
-The project is a animal trading card
+The project is an animal trading card.
 
 ## Main technologies
 
@@ -25,8 +25,9 @@ The project is a animal trading card
 # Install
 
 *  Clone project:
-```bash
+```
 git clone https://github.com/Shaurav43/trading-card.git
 ```
 ## License
 
+`trading card` is MIT licensed.
